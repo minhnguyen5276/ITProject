@@ -1,3 +1,9 @@
 may tinh 1
+<<<<<<< HEAD
+ dong 3 may tinh 1
+=======
 
 may tinh 2
+>>>>>>> ef5066fcc0560fab86e1d5eb9b55ea23ce585b1a
+
+blabla
