@@ -4,3 +4,4 @@ noi dung tren nhanh a
 
 lo tay nhap
 git gui here
+dung sourcetree
