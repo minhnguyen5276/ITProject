@@ -5,3 +5,4 @@ noi dung tren nhanh a
 lo tay nhap
 git gui here
 dung sourcetree
+co file moi 1
