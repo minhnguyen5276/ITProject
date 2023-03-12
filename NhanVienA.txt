@@ -3,3 +3,4 @@ File dc tao boi nhan vien A
 noi dung tren nhanh a
 
 lo tay nhap
+git gui here
