@@ -7,4 +7,8 @@ git gui here
 dung sourcetree
 co file moi 1
 co file moi 2
+
  them moi ben nhanh A
+
+noi dung nhanh C
+>>>>>>> NhanVienC
